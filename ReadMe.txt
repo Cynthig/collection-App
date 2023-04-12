@@ -1,3 +1,6 @@
+- Build the application using Android Studio 
+- Used Java as the programming language
+
 How to access the APP and its Functions 
 
 - The user can log in to the app using a username and password 
